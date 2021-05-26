@@ -1,0 +1,17 @@
+{
+    "name": "jira_clone",
+    "version": "1.0.0",
+    "author": "Predrag Davidovic",
+    "scripts": {
+        "start": "npm run --prefix client build",
+        "server": "npm run --prefix server start",
+        "client": "npm run --prefix client client",
+        "postinstall": "npm install --prefix ./server && npm install --prefix ./client"
+    },
+    "devDependencies": {
+        "prettier": "2.2.1"
+    },
+    "dependencies": {
+        "express": "4.17.1"
+    }
+}

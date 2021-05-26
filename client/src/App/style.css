@@ -1,0 +1,5 @@
+@media only screen and (max-width: 1024px) {
+    .sideBar.sideBarElement {
+        padding: 25px 32px 50px 60px;
+    }
+}

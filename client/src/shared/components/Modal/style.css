@@ -1,0 +1,9 @@
+.ql-editor {
+    min-height: 120px;
+    color: rgb(23, 43, 77);
+    background: #fff;
+    border: 0;
+}
+.ql-toolbar.ql-snow {
+    border-bottom: 0px;
+}

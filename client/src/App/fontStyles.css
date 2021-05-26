@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "jira";
+    src: url("../assets/Fonts/jira.woff") format("truetype"),
+        url("../assets/Fonts/jira.ttf") format("woff"),
+        url("../assets/Fonts/jira.svg#jira") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
